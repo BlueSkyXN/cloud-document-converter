@@ -14,3 +14,6 @@ dist
 .cache
 playwright-report
 test-results
+.DS_Store
+/local
+CLAUDE.md
